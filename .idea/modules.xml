@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/root (1) (com.tragicphantom.stdf).iml" filepath="$PROJECT_DIR$/root (1) (com.tragicphantom.stdf).iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/root (2) (com.tragicphantom.stdf.tools).iml" filepath="$PROJECT_DIR$/tools/root (2) (com.tragicphantom.stdf.tools).iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/stdf4j.iml" filepath="$PROJECT_DIR$/lib/stdf4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/dump/stdfdump.iml" filepath="$PROJECT_DIR$/tools/dump/stdfdump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/extract/stdfextract.iml" filepath="$PROJECT_DIR$/tools/extract/stdfextract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/stats/stdfstats.iml" filepath="$PROJECT_DIR$/tools/stats/stdfstats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tools/viewer/stdfview.iml" filepath="$PROJECT_DIR$/tools/viewer/stdfview.iml" />
+    </modules>
+  </component>
+</project>
