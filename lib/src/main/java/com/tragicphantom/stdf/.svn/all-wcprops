@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/30/trunk/lib/src/main/java/com/tragicphantom/stdf
+END
+STDFContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/STDFContainer.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/Field.java
+END
+STDFReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/STDFReader.java
+END
+QueueVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/24/trunk/lib/src/main/java/com/tragicphantom/stdf/QueueVisitor.java
+END
+RecordDataParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/30/trunk/lib/src/main/java/com/tragicphantom/stdf/RecordDataParser.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/Header.java
+END
+RecordData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/RecordData.java
+END
+RecordTypeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/RecordTypeParser.java
+END
+STDFWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/STDFWriter.java
+END
+RecordDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/RecordDescriptor.java
+END
+RecordVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/RecordVisitor.java
+END
+Record.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/Record.java
+END
+RecordType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/lib/src/main/java/com/tragicphantom/stdf/RecordType.java
+END

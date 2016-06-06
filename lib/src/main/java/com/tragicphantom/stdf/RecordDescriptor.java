@@ -68,7 +68,11 @@ public class RecordDescriptor{
    }
 
    public int getIndex(String name){
-      return indexes.get(name);
+      if (indexes.containsKey(name)) {
+         return indexes.get(name);
+      } else {
+         return 0;
+      }
    }
 
    public boolean contains(String name){

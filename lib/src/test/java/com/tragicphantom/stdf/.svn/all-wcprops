@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/24/trunk/lib/src/test/java/com/tragicphantom/stdf
+END
+ThreadTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/24/trunk/lib/src/test/java/com/tragicphantom/stdf/ThreadTest.java
+END
+WriterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/lib/src/test/java/com/tragicphantom/stdf/WriterTest.java
+END
+TestHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/lib/src/test/java/com/tragicphantom/stdf/TestHelper.java
+END
+ByteOrderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/lib/src/test/java/com/tragicphantom/stdf/ByteOrderTest.java
+END
+ContainerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/23/trunk/lib/src/test/java/com/tragicphantom/stdf/ContainerTest.java
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 39
+target
+*.stdf
+*.stdf.gz
+*.std
+*.std.gz
+
+END

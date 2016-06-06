@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/28/trunk/testdata/create-sample-file
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/28/trunk/testdata/create-sample-file/pom.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/testdata/create-sample-file/README
+END

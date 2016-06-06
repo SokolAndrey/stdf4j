@@ -1,0 +1,26 @@
+#surefire
+#Fri Jun 03 16:22:39 MSK 2016
+testClassesDirectory=/Users/asokol/Libs/stdf4j/trunk/lib/target/test-classes
+classPathUrl.4=/Users/asokol/.m2/repository/junit/junit/4.4/junit-4.4.jar
+forkMode=once
+classPathUrl.3=/Users/asokol/.m2/repository/org/apache/logging/log4j/log4j-core/2.6/log4j-core-2.6.jar
+classPathUrl.2=/Users/asokol/.m2/repository/org/apache/logging/log4j/log4j-api/2.6/log4j-api-2.6.jar
+useManifestOnlyJar=true
+classPathUrl.1=/Users/asokol/Libs/stdf4j/trunk/lib/target/classes
+reportsDirectory=/Users/asokol/Libs/stdf4j/trunk/lib/target/surefire-reports
+classPathUrl.0=/Users/asokol/Libs/stdf4j/trunk/lib/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/Users/asokol/Libs/stdf4j/trunk/lib/src/test/java
+surefireClassPathUrl.1=/Users/asokol/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+surefireClassPathUrl.0=/Users/asokol/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.10/surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/TestHelper.java
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.5=/Users/asokol/.m2/repository/org/projectlombok/lombok/1.16.6/lombok-1.16.6.jar
